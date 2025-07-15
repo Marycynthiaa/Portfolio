@@ -9,7 +9,9 @@
 
 **Power BI**   |  **Excel**   |  **SQL**  |   **MICROSOFT POWER APPS**
 
+
 ## 💻SKILLS
+
 
 - Data Modelling
 - Data Cleaning
@@ -22,8 +24,9 @@
 
 ## 📩 REACH ME ON:
 
-📫Email: [marycyndy29@gmail.com](marycyndy29@gmail.com)
+<img width="18" height="18" alt="icons8-gmail-48" src="https://github.com/user-attachments/assets/14abd85d-3c5b-470d-a436-840b277f3a70" /> [marycyndy29@gmail.com](marycyndy29@gmail.com)
 
-💼LinkedIn: [Marycynthia Nworah](www.linkedin.com/in/marycynthianworah)
+
+<img width="18" height="18" alt="Linkedin svg" src="https://github.com/user-attachments/assets/73db3bf2-ac3d-4321-ad74-ed31d7bbfb7f" /> [Marycynthia Nworah](www.linkedin.com/in/marycynthianworah)
 
 
