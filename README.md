@@ -9,17 +9,21 @@
 
 Power BI   |  Excel   |  SQL  |   MICROSOFT POWER APPS
 
-## SKILLS
+## 💻SKILLS
 
 - Data Modelling
 - Data Cleaning
 - Data Visualization  
 - Data Analysis (DAX, Power Query, Pivot Tables)      
 
-## FEATURED PROJECTS
+## 🪜 FEATURED PROJECTS
 
 [Projects Placeholder](##featured-projects)
 
-## REACH ME ON:
+## 📩 REACH ME ON:
+
+📫Email: [marycyndy29@gmail.com](marycyndy29@gmail.com)
+
+💼LinkedIn: [Marycynthia Nworah](www.linkedin.com/in/marycynthianworah)
 
 
